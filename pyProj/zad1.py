@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 if __name__ == "__main__":
-    ao = {'a', 'e', 'u', 'i', 'o'}
+    ao = {'a', 'e', 'u', 'i', 'o', 'y'}
     s = input('Put your text: ')
     cnt = 0
     list = []
